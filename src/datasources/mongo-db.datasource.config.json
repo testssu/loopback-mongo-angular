@@ -1,0 +1,11 @@
+{
+  "name": "MongoDB",
+  "connector": "mongodb",
+  "url": "mongodb+srv://segovfrank:conexion@cluster0-0hnfz.mongodb.net/desarrolloWeb?retryWrites=true&w=majority",
+  "host": "cluster0-0hnfz.mongodb.net",
+  "port": 27017,
+  "user": "segovfrank",
+  "password": "conexion",
+  "database": "databaseMongo",
+  "useNewUrlParser": true
+}
